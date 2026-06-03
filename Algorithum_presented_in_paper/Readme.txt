@@ -1,0 +1,1 @@
+Images and their corresponding depth maps are provided in this dataset. The depth maps were estimated using MC-Stereo (https://github.com/MiaoJieF/MC-Stereo). After stereo rectification, both the images and depth maps were cropped to remove black borders and corner occlusions. The results demonstrate the effectiveness of the proposed DGRC（depth-guided red compensation）algorithm.
